@@ -39,8 +39,7 @@ Follow these steps to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/ckd-classification
-    cd ckd-classification
+    git clone https://github.com/Pavlovic2001/Chronic-Kidney-Disease-Classification
     ```
 
 2.  **Create and activate a virtual environment:**
